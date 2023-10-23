@@ -1,1 +1,1 @@
-https://github.com/Marina8520/cssMemsSlider
+https://Marina8520.github.io/cssMemsSlider
